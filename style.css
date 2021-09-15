@@ -1,0 +1,110 @@
+body{
+    background-image: url();
+    
+    margin: 0px;
+    padding: 0px;
+    font-size: 20px;
+}
+img{
+    height: 50px;
+    width: 60px;
+}
+
+
+    
+.his{
+    width: 100%;
+    height: 300px;
+}
+.act{
+    width: 100%;
+    height: 300px;
+}
+.AMZ{
+    
+    color: blue;
+    font-weight: bolder;
+    
+}
+
+ a{
+    color: inherit;
+    text-decoration: none;
+}
+form{
+    margin: 20px;
+}
+input{
+    margin: 20px;
+}
+fieldset{
+    background-color:#9dbbc6;
+}
+.topbar{
+    background: #9fbae3;
+    color: white;
+    height: 90px;
+  
+}
+.logo{
+    width: 100px;
+    height: 90px;
+}
+.topbar-logo{
+    display: block;
+    text-align: left;
+    font-size: 24px;
+    padding: 10px 0;
+    width: 50%;
+    height: 10px;
+}
+.topbar-nav{
+    text-align: right;
+    padding-bottom: 16px;
+    padding: 10px;
+}
+.topbar-nav a{
+    display: inline-block;
+    margin: 0 12px;
+}
+.image{
+    display: inline;
+    width: 100%;
+    height: 750px;
+}
+h1{ text-align: center;
+   
+}
+h2{text-align: center;
+    
+}
+footer{
+    width: 90px;
+    height: 100px;
+    background-color: #9fbae3;
+    width: 100%;
+    
+}
+p{text-align: center;
+
+}
+h3{
+    text-align: center;
+    color: white;
+}
+.main{
+    width: 100%;
+    height: 1000px;
+}
+#acccc{
+    height: 500px;
+
+}
+P{
+    font-size: 25px;
+}
+.submit{
+    margin-left: 100px;
+    height: 40px;
+    width: 70px;
+}
